@@ -39,6 +39,4 @@ public class Admin extends Person {
         return super.toString() + "Admin{" + "username=" + username + ", password=" + password + '}';
     }
 
-} // Constructor, getters, setters, toString
-//byibibibihhsdjfbdsfb
-//tung bt
+} 
